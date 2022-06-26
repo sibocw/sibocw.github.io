@@ -1,5 +1,8 @@
 title: Sibo Wang
 logo: /assets/img/profile.jpg
 show_downloads: false
+description: <firstname>.<lastname>@epfl.ch
 google_analytics: G-SD641HJRFZ
+github:
+  is_project_page: false
 theme: jekyll-theme-minimal
