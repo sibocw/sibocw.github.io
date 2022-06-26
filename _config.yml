@@ -5,4 +5,5 @@ description: "[firstname].[lastname]@epfl.ch"
 google_analytics: G-SD641HJRFZ
 github:
   is_project_page: false
+  is_user_page: false
 theme: jekyll-theme-minimal
