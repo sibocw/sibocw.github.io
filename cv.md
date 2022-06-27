@@ -29,12 +29,12 @@
 
 ### Awards and Honors
 - Boehringer Ingelheim Fonds PhD Fellowship (2022–2024)
-    - Stipend and travel grant by Boehringer Ingelheim Fonds, foundation for basic
+    - Stipend and travel grant awarded by Boehringer Ingelheim Fonds, foundation for basic
       medical research
 - Fiddler Innovation Fellowship (2019)
-    - Awarded by the National Center for Supercomputing Applications
+    - Scholarship awarded by the National Center for Supercomputing Applications
 - O'Dell Fellowship for Master's study (2018–2019)
-    - Awarded by the University of Illinois at Urbana-Champaign
+    - Stipend awarded by the University of Illinois at Urbana-Champaign
 - BSc in Computer Science and Astronomy with Highest Distinction (2018)
     - Awarded by the University of Illinois at Urbana-Champaign
 - First Place in Original Undergraduate Research (2018)
