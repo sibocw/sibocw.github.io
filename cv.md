@@ -29,15 +29,16 @@
 
 ### Awards and Honors
 - Boehringer Ingelheim Fonds PhD Fellowship (2022–2024)
-    - Boehringer Ingelheim Fonds, foundation for basic medical research
+    - Stipend and travel grant by Boehringer Ingelheim Fonds, foundation for basic
+      medical research
 - Fiddler Innovation Fellowship (2019)
-    - National Center for Supercomputing Applications
+    - Awarded by the National Center for Supercomputing Applications
 - O'Dell Fellowship for Master's study (2018–2019)
-    - University of Illinois at Urbana-Champaign
+    - Awarded by the University of Illinois at Urbana-Champaign
 - BSc in Computer Science and Astronomy with Highest Distinction (2018)
-    - University of Illinois at Urbana-Champaign
+    - Awarded by the University of Illinois at Urbana-Champaign
 - First Place in Original Undergraduate Research (2018)
-    - UIUC Engineering Open House
+    - Awarded by UIUC at its Engineering Open House
 
 ### Publications
 - Khan, A., Huerta, E. A., **Wang, S.**, Gruendl, R., Jennings, E., & Zheng, H. (2019). [Deep learning at scale for the construction of galaxy catalogs in the Dark Energy Survey](https://doi.org/10.1016/j.physletb.2019.06.009). _Physics Letters B_, 795, 248-258.
