@@ -17,9 +17,9 @@
     - Chief Research Officer
     - UIUC spinoff dedicated to ecosystem modeling informed by satellite data and AI.
     - Led Small Business Innovation Research (SBIR) project funded by the
-      National Science Foundation (NSF): _Developing a generative framework to
-      assess farmland resilience based on artificial intelligence, satellite data,
-      and stochastic weather modeling_.
+      National Science Foundation (NSF) from 2020 to 2021: _Developing a generative
+      framework to assess farmland resilience based on artificial intelligence,
+      satellite data, and stochastic weather modeling_.
 - National Center for Supercomputer Applications (NCSA) (2017–2019)
     - Research Internship with the NCSA LIGO/Gravity Group: worked on
       deep-learning-based galaxy classification for the Dark Energy Survey
