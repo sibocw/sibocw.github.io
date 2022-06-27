@@ -4,4 +4,4 @@ Before my PhD, I worked at [Habiterre](https://www.habiterre.com/), a company de
 
 I enjoy hiking, skiing, and chilling with my dog. I am a vexillology enthusiast, a train nerd, and a general curator of random information.
 
-**[CV](/cv.html)** | **[GitHub](https://github.com/sibocw)** | **[Twitter](https://twitter.com/wcsibo)**
+**[CV](/cv.html)** \| **[GitHub](https://github.com/sibocw)** \| **[Twitter](https://twitter.com/wcsibo)**
