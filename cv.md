@@ -4,11 +4,12 @@
     - Thesis director: Prof. Pavan Ramdya
     - Doctoral Program in Computational and Quantitative Biology
 - MSc (2018–2019)
-    - National Center for Supercomputing Applications (NCSA) and Dept of Natural Resources and Environmental Sciences (NRES), University of Illinois at Urbana-Champaign (UIUC)
+    - National Center for Supercomputing Applications (NCSA) and Dept. of Natural Resources and Environmental Sciences (NRES), University of Illinois at Urbana-Champaign (UIUC)
+    - Fully funded by research assistantship and fellowship stipend
 - BSc (2015–2018)
-    - Computer Science and Astronomy
+    - Computer Science and Astronomy, Highest Distinction
     - University of Illinois at Urbana-Champaign (UIUC)
-    - Started in Div of Engineering Science, University of Toronto
+    - Started in Div. of Engineering Science, University of Toronto
       (2015–2016); transfered to UIUC (2017)
 
 ### Work Experience
@@ -24,7 +25,7 @@
       deep-learning-based galaxy classification for the Dark Energy Survey
       (DES) and numerical relativity for the Laser Interferometer Gravitational-wave
       Observatory (LIGO)
-    - Research Internship with Prof. Kaiyu Guan group: worked on fusing multiple satellite      data sources with computer vision.
+    - Research Internship with Prof. Kaiyu Guan's group: worked on fusing multiple satellite      data sources with computer vision.
 
 ### Awards and Honors
 - Boehringer Ingelheim Fonds PhD Fellowship (2022–2024)
