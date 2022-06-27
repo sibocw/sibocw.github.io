@@ -1,5 +1,12 @@
 I am a PhD student in the [Neuroengineering Laboratory](https://www.epfl.ch/labs/ramdya-lab/) at EPFL, the Swiss Federal Institute of Technology in Lausanne. I am interested in reverse-engineering the neural controller underlying the agile and robust locomotion of _Drosophila_, the common fruit fly. Specifically, I build biologically constrained artificial neural networks to reproduce animal behavior. I hope these models will teach us about fundamental neurobiology and inspire more efficient control architecture for robotics and AI. I am a [Boehringer Ingelheim Fonds](https://www.bifonds.de/) PhD fellow.
 
-Before my PhD, I worked at [Habiterre](https://www.habiterre.com/), a company devoted to ecosystems modeling and sustainability benchmarking. I led an [NSF-funded project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2026071) that systematically evaluates farmland resilience using satellite images and machine learning. I received my bachelor's and master's degrees from the University of Illinois at Urbana-Champaign (UIUC).
+Before my PhD, I worked at [Habiterre](https://www.habiterre.com/), a company devoted to ecosystems modeling and sustainability benchmarking. I led an [NSF-funded project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2026071) that systematically evaluates farmland resilience using satellite images and machine learning.
+
+I received my Bachelor’s degree in Computer Science and Astronomy (?) and my Master's degree in Natural Resources and Environmental Sciences (!) from the University of Illinois at Urbana-Champaign. I also spent 3 semesters at the University of Toronto.
 
 I enjoy hiking, skiing, and chilling with my dog. I am a vexillology enthusiast, a train nerd, and a general curator of random information.
+
+## Publications
+- Khan, A., Huerta, E. A., **Wang, S.**, Gruendl, R., Jennings, E., & Zheng, H. (2019). Deep learning at scale for the construction of galaxy catalogs in the Dark Energy Survey. _Physics Letters B_, 795, 248-258.
+- Rebei, A., Huerta, E. A., **Wang, S.**, Habib, S., Haas, R., Johnson, D., & George, D. (2019). Fusing numerical relativity and deep learning to detect higher-order multipole waveforms from eccentric binary black hole mergers. Physical Review D, 100(4), 044025.
+- Kimm, H., Guan, K., Jiang, C., Peng, B., Gentry, L. F., Wilkin, S. C., **Wang, S.**, Cai, Y., Bernacchi C. J., Peng, J. & Luo, Y. (2020). Deriving high-spatiotemporal-resolution leaf area index for agroecosystems in the US Corn Belt using Planet Labs CubeSat and STAIR fusion data. _Remote Sensing of Environment_, 239, 111615.
