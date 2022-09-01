@@ -2,6 +2,4 @@ I am a PhD student in the [Neuroengineering Laboratory](https://www.epfl.ch/labs
 
 Before my PhD, I worked at [Habiterre](https://www.habiterre.com/), a company devoted to ecosystems modeling and sustainability benchmarking. I led an [NSF-funded project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2026071) that systematically evaluates farmland resilience using satellite images and machine learning. I received my bachelor's and master's degrees from the University of Illinois at Urbana-Champaign.
 
-# I enjoy hiking, skiing, and playing with my dog. I am a vexillology enthusiast, a train nerd, and a general curator of random information.
-
 **[CV](/cv.html)** \| **[GitHub](https://github.com/sibocw)** \| **[EPFL directory](https://people.epfl.ch/sibo.wang?lang=en)**
