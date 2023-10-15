@@ -1,4 +1,4 @@
-## Curriculum vitae
+## Resume
 
 ### Education
 - PhD (2021–)
