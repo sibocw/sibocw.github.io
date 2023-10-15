@@ -2,7 +2,7 @@ I am a PhD candidate in the [Neuroengineering Laboratory](https://www.epfl.ch/la
 
 Before my PhD, I worked at [Habiterre](https://www.habiterre.com/), a company devoted to ecosystems modeling and sustainability benchmarking. I led an [NSF-funded project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2026071) that systematically evaluates farmland resilience using satellite images and machine learning. I received my bachelor's and master's degrees from the University of Illinois at Urbana-Champaign.
 
-**[CV](/cv.html)** \| **[GitHub](https://github.com/sibocw)** \| **[EPFL directory](https://people.epfl.ch/sibo.wang?lang=en)** \| **[LinkedIn](https://www.linkedin.com/in/sibo-wang-chen/)**
+**[CV](/cv.html)** \| **[Publications](/publications.html)** \| **[GitHub](https://github.com/sibocw)** \| **[LinkedIn](https://www.linkedin.com/in/sibo-wang-chen/)**
 
 ---
 
