@@ -16,4 +16,7 @@
   - Teaching Assistant.
   - Basics of system programming, including POSIX processes, process control, inter-process communication, synchronization, signals, simple memory management, file I/O and directories, shell programming, socket network programming, RPC programming in distributed systems, basic security mechanisms, and standard tools for systems programming such as debugging tools. ([Source](https://cs.illinois.edu/academics/courses/cs241-120182))
 
+### Student supervision
+- I have supervised 7 master student projects/internships (part-time projects lasting one semester, or full-time projects lasting part of the summer), 5 bachelor student projects (similar in format), and 1 master thesis project.
+
 **[Home](/index.html)**
