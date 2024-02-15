@@ -2,6 +2,7 @@
 
 ### Online resources
 - [NeuroMechFly](https://neuromechfly.org/) documentation, complete with tutorials.
+- I wrote a [tutorial on doing machine learning with custom datasets and using transfer learning to facilitate training](https://github.com/NeLy-EPFL/knowledge-base/blob/main/code_tutorials/torch-dataset-demo/torch_demo.ipynb)
 - I wrote a [tutorial on processing geospatial data with Python](https://github.com/yzh5239/geospatial-quickstart/blob/master/notebooks/1hr-cookbook.ipynb) when I was working on satellite-based ecosystem modeling.
 
 ### Neuroscience (2021–)
