@@ -1,5 +1,9 @@
 ## Publications
 
+### Online resources
+- [NeuroMechFly](https://neuromechfly.org/) documentation, complete with tutorials.
+- I wrote a [tutorial on processing geospatial data with Python](https://github.com/yzh5239/geospatial-quickstart/blob/master/notebooks/1hr-cookbook.ipynb) when I was working on satellite-based ecosystem modeling.
+
 ### Neuroscience (2021–)
 - **Wang-Chen, S.**, Stimpfling, V. A., Özdil, P. G., Genoud, L., Hurtak, F., & Ramdya, P. (2023). [NeuroMechFly 2.0, a framework for simulating embodied sensorimotor control in adult Drosophila](https://www.biorxiv.org/content/10.1101/2023.09.18.556649). BioRxiv.
 - Braun, J., Hurtak, F., **Wang-Chen, S.**, & Ramdya, P. (2023). [Networks of descending neurons transform command-like signals into population-based behavioral control](https://www.biorxiv.org/content/10.1101/2023.09.11.557103). BioRxiv.
