@@ -3,7 +3,7 @@
 ### Online resources
 - [NeuroMechFly](https://neuromechfly.org/) documentation, complete with tutorials.
 - I wrote a [tutorial on doing machine learning with custom datasets and using transfer learning to facilitate training](https://github.com/NeLy-EPFL/knowledge-base/blob/main/code_tutorials/torch-dataset-demo/torch_demo.ipynb)
-- I wrote a [tutorial on processing geospatial data with Python](https://github.com/yzh5239/geospatial-quickstart/blob/master/notebooks/1hr-cookbook.ipynb) (Caveat: I wrote this quite a while ago; it might not follow the up-to-date best practices. Also, know that I was only a master student when I wrote it.)
+- I wrote a [tutorial on processing geospatial data with Python](https://github.com/yzh5239/geospatial-quickstart/blob/master/notebooks/1hr-cookbook.ipynb) (Caveat: As I wrote this tutorial quite a while ago, it might not follow current best practices. Also, know that I was only a master student when I wrote it.)
 
 ### Neuroscience papers (2021–)
 - **Wang-Chen, S.**, Stimpfling, V. A., Özdil, P. G., Genoud, L., Hurtak, F., & Ramdya, P. (2023). [NeuroMechFly 2.0, a framework for simulating embodied sensorimotor control in adult Drosophila](https://www.biorxiv.org/content/10.1101/2023.09.18.556649). BioRxiv.
