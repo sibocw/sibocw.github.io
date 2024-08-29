@@ -12,7 +12,8 @@ Before my PhD, I worked at [Habiterre](https://www.habiterre.com/), a company de
 ---
 
 ### Highlights
+- 2024: HabiTerre [raises $10M in Series A](https://agfundernews.com/habiterre-makes-10m-first-close-on-its-series-a-aims-to-become-the-global-standard-for-sustainability-metrics) to build "gold standard" for sustainability metrics in agriculture.
 - 2023: **Fruit fly digital twin:** I'm excited to share [NeuroMechFly v2](https://neuromechfly.org/), our framework for simulating embodied sensorimotor control in adult _Drosophila_, now accepted at _Nature Methods_. [Preprint](https://www.biorxiv.org/content/10.1101/2023.09.18.556649).
 - 2023: **Descending neuron networks:** I'm honored to be a part of our study on how networks of descending neurons transform command-like signals into population-based behavioral control, now [published in _Nature_](https://doi.org/10.1038/s41586-024-07523-9).
-- 2019–2021: **[Habiterre](https://www.habiterre.com/)**, a company devoted to sustainable agriculture utilizing satellite images and machine learning. I led the research activities at Habiterre in its first two years.
+- 2019–2021: **[HabiTerre](https://www.habiterre.com/)**, a company devoted to sustainable agriculture utilizing satellite images and machine learning. I served as HabiTerre's CRO in its first two years.
 - 2017–2018: **Gravitational astrophysics**: I have also briefly worked on simulating gravitational waves and building deep learning models for observational astronomy. See my CV for publications.
