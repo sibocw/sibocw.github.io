@@ -7,7 +7,7 @@ Before my PhD, I worked at [Habiterre](https://www.habiterre.com/), a company de
 **[Teaching](/teaching.html)** \|
 **[GitHub](https://github.com/sibocw)** \|
 **[LinkedIn](https://www.linkedin.com/in/sibo-wang-chen/)** \|
-**[Google Scholar](https://scholar.google.ch/citations?hl=en&user=bZwA_skAAAAJ)
+**[Google Scholar](https://scholar.google.ch/citations?hl=en&user=bZwA_skAAAAJ)**
 
 ---
 
