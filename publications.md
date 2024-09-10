@@ -14,10 +14,11 @@
 - Rebei, A., Huerta, E. A., **Wang, S.**, Habib, S., Haas, R., Johnson, D., & George, D. (2019). [Fusing numerical relativity and deep learning to detect higher-order multipole waveforms from eccentric binary black hole mergers](https://doi.org/10.1103/PhysRevD.100.044025). _Physical Review D_, 100(4), 044025.
 
 ### Ecosystem modeling (2017–2021)
-- **Articles:** See [Google Scholar](https://scholar.google.ch/citations?hl=en&user=bZwA_skAAAAJ)
-- **Patents:**
-  - [Apparatus and method for crop yield prediction](https://patents.google.com/patent/US20220067614A1/en)
-  - [Systems and methods for quantifying agroecosystem variables through multi-tier scaling from ground data, to mobile platforms, and to satellite observations](https://patents.google.com/patent/WO2022011236A3/en)
-  - [Accessing agriculture productivity and sustainability](https://patents.google.com/patent/US20220061236A1/en)
+- See [Google Scholar](https://scholar.google.ch/citations?hl=en&user=bZwA_skAAAAJ)
+
+### Patents (2017–2021)
+- [Apparatus and method for crop yield prediction](https://patents.google.com/patent/US20220067614A1/en)
+- [Systems and methods for quantifying agroecosystem variables through multi-tier scaling from ground data, to mobile platforms, and to satellite observations](https://patents.google.com/patent/WO2022011236A3/en)
+- [Accessing agriculture productivity and sustainability](https://patents.google.com/patent/US20220061236A1/en)
 
 **[Home](/index.html)**
